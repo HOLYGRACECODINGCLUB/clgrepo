@@ -1,0 +1,73 @@
+.card {
+    background-color: #ffffff;
+    color: #11014b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    transition: background-color 0.3s ease-in-out;
+  }
+  .card2 {
+    background-color: #ffffff;
+    color: #11014b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 100vh;
+    margin: 0 auto;
+    text-align: center;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    background-color: #001a633f;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group input {
+    width: calc(100% - 16px);
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+    color: #070849;
+  }
+  
+  .input-group label {
+    margin-bottom: 5px;
+    display: block;
+  }
+  
+  .image-preview {
+    margin-top: 10px;
+  }
+  
+  .image-preview .imageaus {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+.data-cards-container {
+  display: flex;
+  flex-wrap: nowrap; /* Ensures cards do not wrap to the next line */
+  overflow-x: auto; /* Enables horizontal scrolling if the cards overflow the container */
+  margin-bottom: 20px; /* Adds some space at the bottom */
+}
+
+.card {
+  /* Add your card styles here */
+  margin-right: 10px; /* Adds some space between cards */
+}
+
+.imageaus
+{
+  width: 100px;
+  height: 100px;
+}
