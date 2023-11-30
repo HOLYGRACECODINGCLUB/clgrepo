@@ -49,7 +49,7 @@ class App extends React.Component {
                           <div className="detail-box">
                             <h1>
                               We Provide <br />
-                              Welding Services
+                              Welding Servicess
                             </h1>
                             <p>
                               Lorem ipsum dolor sit amet conysectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
