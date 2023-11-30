@@ -52,7 +52,7 @@ class App extends React.Component {
                               Welding Services
                             </h1>
                             <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
+                              Lorem ipsum dolor sit amet conysectetur adipisicing elit. Odio omnis fugit, sed tempora praesentium commodi error, hic recusandae repudiandae neque ad molestias, atque veritatis labore quae eveniet autem in
                             </p>
                           </div>
                         </div>
